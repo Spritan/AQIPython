@@ -9,8 +9,8 @@ We encourage you to submit pull requests to help improve this project. Please fo
 
 1. Fork the repository and create a new branch for your changes.
 2. Ensure your code adheres to the project's coding style and conventions.
-3. 3.Provide a clear and descriptive title for your pull request.
-4. 4.Include a detailed description of the changes you've made and why they are beneficial.5.
+3. Provide a clear and descriptive title for your pull request.
+4. Include a detailed description of the changes you've made and why they are beneficial.5.
 5. If your pull request addresses an existing issue, reference it in the description using the issue number (e.g., "Fixes #123")
 6. Make sure your code is well-documented and includes any necessary tests.
 7. Test your changes thoroughly to ensure they do not introduce any regressions.
@@ -23,7 +23,7 @@ Please follow the established code style and conventions used in this project. T
 By contributing to this project, you agree that your contributions will be licensed under the same LICENSE as the project.
 
 ## Code of Conduct
-Please note that this project follows a Code of Conduct. We expect all contributors to adhere to this code of conduct in all project interactions.
+Please note that this project follows a [Code of Conduct](https://github.com/Spritan/AQIPython/blob/main/CodeofConduct.md). We expect all contributors to adhere to this code of conduct in all project interactions.
 
 ## Contact
 If you have any questions or need further assistance, feel free to contact us at [proypabsab@gmail.com].
