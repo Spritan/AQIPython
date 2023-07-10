@@ -1,12 +1,8 @@
-from params.breakPoints import AQI_break
-from errors.paramsCompare import *
+from .breakPoints import AQI_break
+from .paramsCompare import *
 
-def calculate_aqi(Standard:str, pollutant:str, concentration:float)->float:
-    """Exception raised for errors in the input parameters of the function.
-
-    Attributes:
-        Standard -- the standard yo be followed for the output
-        message -- explanation of the error
+def calculate_aqi(Standard:str, pollutant:str, concentration:float, unit:str="microgram")->float:
+    """Calculates the AQI for a given standard of pollutant and concentration
     """
     
     if (Standard not in AQI_break.keys()):
