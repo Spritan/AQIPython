@@ -17,7 +17,7 @@ Be open-minded and receptive to new ideas and contributions. Embrace diversity a
 Maintain professionalism in all interactions. Refrain from engaging in any form of disruptive, offensive, or inappropriate behavior. Respect the boundaries and privacy of others. Do not engage in any form of harassment, stalking, or unwelcome advances.
 
 ## 6. Reporting and Enforcement
-If you witness or experience any violations of this code of conduct, please report it immediately to the project maintainers at [email@example.com]. All reports will be treated with confidentiality, and appropriate actions will be taken. Project maintainers reserve the right to enforce this code of conduct by taking necessary actions, including warning, moderation, temporary or permanent bans, or other measures deemed appropriate.
+If you witness or experience any violations of this code of conduct, please report it immediately to the project maintainers at [proypabsab@gmail.com]. All reports will be treated with confidentiality, and appropriate actions will be taken. Project maintainers reserve the right to enforce this code of conduct by taking necessary actions, including warning, moderation, temporary or permanent bans, or other measures deemed appropriate.
 
 ## 7. Project Scope
 This code of conduct applies to all project-related activities, including but not limited to communication channels, code contributions, issue discussions, pull requests, and project events.
