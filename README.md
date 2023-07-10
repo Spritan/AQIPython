@@ -36,14 +36,7 @@ AQIPython supports the following Standards for calculating AQI:
 - US (United States of America)
 
 ## Contributing
-If you'd like to contribute to AQIPython, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your fork.
-5. Submit a pull request detailing your changes and why they should be merged.
-Please ensure that you follow the existing coding style and write appropriate tests for your changes.
+If you'd like to contribute to AQIPython, please take a look at [Contributing Guidelines](https://github.com/Spritan/AQIPython/blob/main/CONTRIBUTING.md).
 
 ## Author
 - [@Spritan](https://github.com/Spritan)
