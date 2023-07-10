@@ -1,6 +1,6 @@
 # AQIPython
 ## Description
-AQIPython is a Python module that calculates the Air Quality Index (AQI) for various air pollutants based on different standards. The module takes pollutant concentration values in parts per million (PPM), milligrams per cubic meter (mg/m³), and micrograms per cubic meter (µg/m³) and provides the corresponding AQI value
+AQIPython is a Python module that calculates the Air Quality Index (AQI) for various air pollutants based on different standards. The module takes pollutant concentration values in parts per million (PPM), milligrams per cubic meter (mg/m³), and micrograms per cubic meter (µg/m³) and provides the corresponding AQI value.
 
 ## Installation
 To install AQIPython, you can use pip, the Python package manager. Open your terminal or command prompt and run the following command:
@@ -46,8 +46,8 @@ If you'd like to contribute to AQIPython, please follow these steps:
 Please ensure that you follow the existing coding style and write appropriate tests for your changes.
 
 ## Author
-- @Spritan
-- @dev-rajk
+- [@Spritan](https://github.com/Spritan)
+- [@dev-rajk](https://github.com/dev-rajk)
 
 
 ## Changelog
