@@ -6,11 +6,11 @@ with open("./README.md", "r") as f:
 setup(
     name="AQIPython",
     version="0.0.07",
-    description="An python AQI calculator library",
+    description="A Multistandard python AQI calculator library ",
     packages=find_packages(),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Spritan/py-aqi",
+    url="https://github.com/Spritan/AQIPython",
     author="Spritan",
     author_email="proypabsab@gmail.com",
     license="MIT",
